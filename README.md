@@ -47,9 +47,8 @@ These images are processed using the project's AI-based pest-detection system to
 ## Remote Alerts
 
 The ESP32 uses Wi-Fi connectivity and the Telegram Bot API to send alerts to the farmer.
-Alerts can be used for conditions such as:
-Low soil moisture
-Detected pests
+
+Alerts can be used for conditions such as: Low soil moisture, Detected pests
 
 ## Project Results
 
