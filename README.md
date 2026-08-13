@@ -77,6 +77,6 @@ Possible future improvements include:
 
 ## Academic Project
 
-Smart Agriculture with Pest Control System Using AI (SAPS)
+SAPS : Smart Agriculture with Pest Control System Using AI
 
 Developed as an academic team project at MVJ College of Engineering.
