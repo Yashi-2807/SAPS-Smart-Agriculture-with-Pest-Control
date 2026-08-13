@@ -80,24 +80,3 @@ Possible future improvements include:
 SAPS : Smart Agriculture with Pest Control System Using AI
 
 Developed as an academic team project at MVJ College of Engineering.
-
-## Project Images
-
-### System Model
-![System Model](images/Model_Structure.png)
-
-### Prototype
-![Prototype](images/Prototype.png)
-
-### Obstacle Detection
-![Obstacle Detection](images/Obstacle_detection.png)
-
-### Pest Detection
-![Pest Detection](images/Pest_detection.png)
-
-### Telegram Alert
-![Telegram Alert](images/Telegram_alert.png)
-
-## Requirements
-
-See [requirements.md](requirements.md) for the hardware and software used in the project.
